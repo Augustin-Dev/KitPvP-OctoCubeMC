@@ -1,0 +1,10 @@
+main: fr.augustin.Main
+name: KitPvP
+version: 1.0.0
+author: Augustin_
+commands:
+  compte:
+  mod:
+  buildmod:
+  duel:
+  ss:
